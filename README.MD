@@ -1,3 +1,3 @@
-#Gif Expert App
+# Gif Expert App
 
 Repositorio del proyecto GifExpertApp de React
