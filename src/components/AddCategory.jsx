@@ -16,7 +16,6 @@ export const AddCategory = ({onNewCategory}) => {
         setInputValue('');
     }
 
-
     return (
         <form onSubmit={handleSubmit}>
             <input
